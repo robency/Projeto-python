@@ -1,7 +1,7 @@
-soma = 1+1
-multiplicacao = 4 * 4
+soma = 1+2
+multiplicacao = 4 * 3
 divisao = 30 / 3
-pontencia = 7 ** 2
+pontencia = 7 * 4
 
 print("soma", soma)
 print("multiplicacao",multiplicacao)
